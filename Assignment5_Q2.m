@@ -1,4 +1,4 @@
-% Sharlene Mascarenhas (21011314)
+% Sharlene M.
 % 2.
 
 clc
@@ -87,3 +87,4 @@ while iter < max_iter % Subbing values into the equations to check if it converg
     end
 end
 disp("Set 3 system of equations do not converge.") % if the system of equations does not converge.
+
