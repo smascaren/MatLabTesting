@@ -1,4 +1,4 @@
-% Sharlene Mascarenhas (21011314)
+% Sharlene M.
 % 2.1
 
 clc
@@ -45,5 +45,6 @@ syx = sqrt(sr/(n-2));
 % Putting the a0 and a1 into one variable
 a = [a_zero,a_one]
 end
+
 
 
