@@ -1,4 +1,4 @@
-% Sharlene Mascarenhas (21011314)
+% Sharlene M.
 % 1.
 
 clc
@@ -40,3 +40,4 @@ rootcalc2 = (-1.7-sqrt(dis))/2/(-0.9);
 
 fprintf('\rThe first calculated root is %1.6f \r',rootcalc1)
 fprintf('\rThe second calculated root is %1.6f \r',rootcalc2)
+
