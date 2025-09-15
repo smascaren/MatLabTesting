@@ -1,4 +1,4 @@
-% Sharlene Mascarenhas (21011314)
+% Sharlene M
 % Q2
 
 clc
@@ -52,4 +52,5 @@ disp("Lagrange interpolation 3rd order:" + f2_lagrange(2.8))
 
 % Stating the conclusion drawn from these results.
 disp("Yes the values for the Newton and Lagrange interpolation to the third order is the same.")
+
 
