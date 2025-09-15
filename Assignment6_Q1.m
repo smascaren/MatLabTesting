@@ -1,4 +1,4 @@
-% Sharlene Mascarenhas (21011314)
+% Sharlene M.
 % Q1
 
 clc
@@ -61,5 +61,6 @@ hold on;
 plot(x,y,'o');
 title("Parabola")
 hold off
+
 
 
