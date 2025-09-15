@@ -1,4 +1,4 @@
-% Sharlene Mascarenhas (21011314)
+% Sharlene M.
 % 3.
 
 clc
@@ -47,3 +47,4 @@ sol1 = fsolve(@(x) [f3(x(1),x(2)); f4(x(1),x(2))], x1)
 sol2 = fsolve(@(x) [f3(x(1),x(2)); f4(x(1),x(2))], x2)
 sol3 = fsolve(@(x) [f3(x(1),x(2)); f4(x(1),x(2))], x3)
 sol4 = fsolve(@(x) [f3(x(1),x(2)); f4(x(1),x(2))], x4)
+
