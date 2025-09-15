@@ -1,4 +1,4 @@
-% Sharlene Mascarenhas (21011314)
+% Sharlene M.
 % 2.3
 
 clc
@@ -60,4 +60,5 @@ function [sol,iter] = newton_conc(f,J1,x0)
         iter = i;
         disp("The number of iteration completed: " + iter)
     end
+
 end
